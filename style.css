@@ -1,0 +1,37 @@
+section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+    background-color: #5FA6A9;
+}
+body{
+    text-align: center;
+    background-color: #f5ecab;
+}
+ul{
+    display: inline;
+    text-align: center;
+    align-items: center;
+    margin-right: 30px;
+
+}
+
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+
+img{
+    max-height: 250px;
+    margin-top: 20px;
+}
+.facts{
+    display: block;
+}
+.questions{
+    display: block;
+}
